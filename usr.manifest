@@ -1,0 +1,1 @@
+/memorylatency-bench: ${MODULE_DIR}/build/src/memorylatency-x86_64
